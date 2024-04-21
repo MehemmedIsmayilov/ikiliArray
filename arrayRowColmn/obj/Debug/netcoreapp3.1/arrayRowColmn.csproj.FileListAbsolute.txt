@@ -1,0 +1,14 @@
+C:\Users\mahammadmi\source\repos\arrayRowColmn\arrayRowColmn\bin\Debug\netcoreapp3.1\arrayRowColmn.exe
+C:\Users\mahammadmi\source\repos\arrayRowColmn\arrayRowColmn\bin\Debug\netcoreapp3.1\arrayRowColmn.deps.json
+C:\Users\mahammadmi\source\repos\arrayRowColmn\arrayRowColmn\bin\Debug\netcoreapp3.1\arrayRowColmn.runtimeconfig.json
+C:\Users\mahammadmi\source\repos\arrayRowColmn\arrayRowColmn\bin\Debug\netcoreapp3.1\arrayRowColmn.runtimeconfig.dev.json
+C:\Users\mahammadmi\source\repos\arrayRowColmn\arrayRowColmn\bin\Debug\netcoreapp3.1\arrayRowColmn.dll
+C:\Users\mahammadmi\source\repos\arrayRowColmn\arrayRowColmn\bin\Debug\netcoreapp3.1\arrayRowColmn.pdb
+C:\Users\mahammadmi\source\repos\arrayRowColmn\arrayRowColmn\obj\Debug\netcoreapp3.1\arrayRowColmn.csproj.AssemblyReference.cache
+C:\Users\mahammadmi\source\repos\arrayRowColmn\arrayRowColmn\obj\Debug\netcoreapp3.1\arrayRowColmn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahammadmi\source\repos\arrayRowColmn\arrayRowColmn\obj\Debug\netcoreapp3.1\arrayRowColmn.AssemblyInfoInputs.cache
+C:\Users\mahammadmi\source\repos\arrayRowColmn\arrayRowColmn\obj\Debug\netcoreapp3.1\arrayRowColmn.AssemblyInfo.cs
+C:\Users\mahammadmi\source\repos\arrayRowColmn\arrayRowColmn\obj\Debug\netcoreapp3.1\arrayRowColmn.csproj.CoreCompileInputs.cache
+C:\Users\mahammadmi\source\repos\arrayRowColmn\arrayRowColmn\obj\Debug\netcoreapp3.1\arrayRowColmn.dll
+C:\Users\mahammadmi\source\repos\arrayRowColmn\arrayRowColmn\obj\Debug\netcoreapp3.1\arrayRowColmn.pdb
+C:\Users\mahammadmi\source\repos\arrayRowColmn\arrayRowColmn\obj\Debug\netcoreapp3.1\arrayRowColmn.genruntimeconfig.cache

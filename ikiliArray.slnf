@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "arrayRowColmn.sln",
+    "projects": [
+      "arrayRowColmn\\arrayRowColmn.csproj"
+    ]
+  }
+}
